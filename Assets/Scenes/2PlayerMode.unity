@@ -326,7 +326,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 132594832}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 22ef1920c56ac4d1f8996cab85436086, type: 3}
+  m_Script: {fileID: 11500000, guid: 6fa92323ac10c45f3bebd53dfb871260, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &133208261
@@ -1258,7 +1258,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1253617506}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0b576e73675047d18e1bad95ee84443, type: 3}
+  m_Script: {fileID: 11500000, guid: 14e3382b85690421cb93499320599dcb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   waypoints:
@@ -1278,7 +1278,7 @@ MonoBehaviour:
   - {fileID: 675672549}
   - {fileID: 2105124100}
   - {fileID: 1136919128}
-  moveSpeed: 5
+  moveSpeed: 3
   waypointIndex: 0
   moveAllowed: 0
 --- !u!212 &1253617508
@@ -2044,7 +2044,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1798227006}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0b576e73675047d18e1bad95ee84443, type: 3}
+  m_Script: {fileID: 11500000, guid: 14e3382b85690421cb93499320599dcb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   waypoints:
@@ -2064,7 +2064,7 @@ MonoBehaviour:
   - {fileID: 675672549}
   - {fileID: 2105124100}
   - {fileID: 1136919128}
-  moveSpeed: 5
+  moveSpeed: 3
   waypointIndex: 0
   moveAllowed: 0
 --- !u!212 &1798227008
